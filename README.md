@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=60&lines=Building+digital+experiences;Full-Stack+Developer;ML+%26+AI+Enthusiast;Always+Learning!)](https://github.com/Chathumi-Kasthuriarachchi)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=60&lines=Building+digital+experiences;Writing+clean+code;Learning+continuously;Creating+useful+products)](https://github.com/Chathumi-Kasthuriarachchi)
 
 </div>
 
@@ -86,11 +86,11 @@ I'm a developer who enjoys turning ideas into useful, polished products. I care 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chathumi-Kasthuriarachchi&theme=dark&show_icons=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chathumi-Kasthuriarachchi&theme=dark&show_icons=true&hide_border=true&cache_seconds=0)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chathumi-Kasthuriarachchi&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chathumi-Kasthuriarachchi&theme=dark&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chathumi-Kasthuriarachchi&theme=dark&layout=compact&hide_border=true&cache_seconds=0)
 
 </div>
 
