@@ -1,5 +1,11 @@
 # Hi, I'm Chathumi Kasthuriarachchi 👋
 
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=60&lines=Building+digital+experiences;Full-Stack+Developer;ML+%26+AI+Enthusiast;Always+Learning!)](https://github.com/Chathumi-Kasthuriarachchi)
+
+</div>
+
 Building thoughtful digital experiences with curiosity, creativity, and code.
 
 I'm a developer who enjoys turning ideas into useful, polished products. I care about writing clean code, learning continuously, and creating technology that feels simple to use.
@@ -14,9 +20,15 @@ I'm a developer who enjoys turning ideas into useful, polished products. I care 
 
 ## 📫 Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/chathumi-kasthuriarachchi)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chathumi-kasthuriarachchi)
+
+</div>
 
 ## Programming Languages
+
+<div align="center">
 
 ![C](https://img.shields.io/badge/C-%2300599C?style=flat&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00?style=flat&logo=java&logoColor=white)
@@ -25,7 +37,11 @@ I'm a developer who enjoys turning ideas into useful, polished products. I care 
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=flat&logo=php&logoColor=white)
 
+</div>
+
 ## Web Technologies, Frameworks, Runtime & APIs
+
+<div align="center">
 
 ![React](https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat&logo=nodedotjs&logoColor=white)
@@ -34,7 +50,11 @@ I'm a developer who enjoys turning ideas into useful, polished products. I care 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34C26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white)
 
+</div>
+
 ## Databases & Cloud
+
+<div align="center">
 
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2313AA52?style=flat&logo=mongodb&logoColor=white)
@@ -42,7 +62,11 @@ I'm a developer who enjoys turning ideas into useful, polished products. I care 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%2346E3B7?style=flat&logo=render&logoColor=white)
 
+</div>
+
 ## Developer Tools & Platforms
+
+<div align="center">
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91?style=flat&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC?style=flat&logo=visualstudiocode&logoColor=white)
@@ -56,14 +80,32 @@ I'm a developer who enjoys turning ideas into useful, polished products. I care 
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=flat&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%230052CC?style=flat&logo=jira&logoColor=white)
 
+</div>
+
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chathumi-Kasthuriarachchi&theme=dark&show_icons=true)
+<div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chathumi-Kasthuriarachchi&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chathumi-Kasthuriarachchi&theme=dark&show_icons=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chathumi-Kasthuriarachchi&theme=dark&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chathumi-Kasthuriarachchi&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chathumi-Kasthuriarachchi&theme=dark&layout=compact&hide_border=true)
+
+</div>
+
+## Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chathumi-Kasthuriarachchi/Chathumi-Kasthuriarachchi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chathumi-Kasthuriarachchi/Chathumi-Kasthuriarachchi/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Chathumi-Kasthuriarachchi/Chathumi-Kasthuriarachchi/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+<div align="center">
 
 ---
 
 Thanks for stopping by. Have a great day! 🚀
+
+</div>
