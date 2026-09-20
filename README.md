@@ -1,8 +1,8 @@
 # Hi, I'm Chathumi Kasthuriarachchi 👋
 
 <div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=60&lines=Building+digital+ex[...]
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=60&lines=Building+digital+experiences;Creating+useful+software;Always+learning+and+growing" alt="Typing SVG" />
 
 </div>
 
