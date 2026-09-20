@@ -85,8 +85,6 @@ I'm a developer who enjoys turning ideas into useful, polished products. I care 
 
 ## GitHub Statistics
 
-## GitHub Statistics
-
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chathumi-Kasthuriarachchi&theme=dark&show_icons=true&hide_border=true)
@@ -100,9 +98,9 @@ I'm a developer who enjoys turning ideas into useful, polished products. I care 
 ## Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chathumi-Kasthuriarachchi/Chathumi-Kasthuriarachchi/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chathumi-Kasthuriarachchi/Chathumi-Kasthuriarachchi/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Chathumi-Kasthuriarachchi/Chathumi-Kasthuriarachchi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chathumi-Kasthuriarachchi/Chathumi-Kasthuriarachchi/gh-pages/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chathumi-Kasthuriarachchi/Chathumi-Kasthuriarachchi/gh-pages/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Chathumi-Kasthuriarachchi/Chathumi-Kasthuriarachchi/gh-pages/github-contribution-grid-snake-dark.svg">
 </picture>
 
 <div align="center">
