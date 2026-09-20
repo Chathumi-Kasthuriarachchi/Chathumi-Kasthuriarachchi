@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=60&lines=Building+digital+experiences;Writing+clean+code;Learning+continuously;Creating+useful+products)](https://github.com/Chathumi-Kasthuriarachchi)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=60&lines=Building+digital+ex[...]
 
 </div>
 
@@ -23,6 +23,7 @@ I'm a developer who enjoys turning ideas into useful, polished products. I care 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chathumi-kasthuriarachchi)
+[![Medium](https://img.shields.io/badge/Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@chathubino)
 
 </div>
 
