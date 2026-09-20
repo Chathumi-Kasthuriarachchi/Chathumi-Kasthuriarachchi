@@ -85,13 +85,15 @@ I'm a developer who enjoys turning ideas into useful, polished products. I care 
 
 ## GitHub Statistics
 
+## GitHub Statistics
+
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chathumi-Kasthuriarachchi&theme=dark&show_icons=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chathumi-Kasthuriarachchi&show_icons=true&theme=dark&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Chathumi-Kasthuriarachchi&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chathumi-Kasthuriarachchi&theme=dark&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chathumi-Kasthuriarachchi&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
