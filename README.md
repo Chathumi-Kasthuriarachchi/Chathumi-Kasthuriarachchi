@@ -88,9 +88,9 @@ I'm a developer who enjoys turning ideas into useful, polished products. I care 
 <div align="center">
 
 <img src="https://github-readme-stats-me-e067.vercel.app/api?username=Chathumi-Kasthuriarachchi&show_icons=true&theme=dark&hide_border=true&v=2" alt="GitHub Stats">
-
+<br>
 <img src="https://github-readme-stats-me-e067.vercel.app/api/top-langs/?username=Chathumi-Kasthuriarachchi&layout=compact&theme=dark&hide_border=true&v=2" alt="Top Languages">
-
+<br>
 <img src="https://streak-stats.demolab.com?user=Chathumi-Kasthuriarachchi&theme=dark&hide_border=true" alt="GitHub Streak">
 
 </div>
